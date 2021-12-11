@@ -8,6 +8,7 @@ Esse notebook é uma analise a partir dos dados de passageiros do Titanic.
 * [IPython](http://ipython.org/)
 * [Pandas](http://pandas.pydata.org/)
 * [Matplotlib](http://matplotlib.org/)
+* [Numpy](https://numpy.org)
 
 ### Aprendendo Analise de Dados a partir do Titanic
 
